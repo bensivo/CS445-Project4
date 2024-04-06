@@ -1,0 +1,9 @@
+samples/0024.jpg filter=lfs diff=lfs merge=lfs -text
+samples/0060.jpg filter=lfs diff=lfs merge=lfs -text
+samples/0120.jpg filter=lfs diff=lfs merge=lfs -text
+samples/0205.jpg filter=lfs diff=lfs merge=lfs -text
+samples/0553.jpg filter=lfs diff=lfs merge=lfs -text
+samples/empty.jpg filter=lfs diff=lfs merge=lfs -text
+samples/latlon.hdr filter=lfs diff=lfs merge=lfs -text
+images/outputs/naive_hdr.hdr filter=lfs diff=lfs merge=lfs -text
+samples/ibl.blend filter=lfs diff=lfs merge=lfs -text
